@@ -89,7 +89,6 @@ const Navbar = () => {
       </div>
 
    
-      <div className="w-full h-16 bg-gray-300"></div>
     </div>
   );
 };
