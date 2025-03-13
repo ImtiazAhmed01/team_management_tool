@@ -2,7 +2,7 @@
 import { NavLink } from "react-router-dom";
 const Navbar = () => {
     return (
-        <div className="pr-9">
+        <div className="pr-9 flex justify-center">
             {/* <Navlink to='/signup'>SignUP</Navlink>
             <Navlink to='/login'>LogIn</Navlink> */}
             <NavLink to='/signup'>SignUP</NavLink>
